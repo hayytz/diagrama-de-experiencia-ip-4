@@ -1,0 +1,7 @@
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\bin\Debug\Laboratorio02_04.exe.config
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\bin\Debug\Laboratorio02_04.exe
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\bin\Debug\Laboratorio02_04.pdb
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\obj\Debug\Laboratorio02_04.csproj.AssemblyReference.cache
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\obj\Debug\Laboratorio02_04.csproj.CoreCompileInputs.cache
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\obj\Debug\Laboratorio02_04.exe
+C:\Users\devri\source\repos\Laboratorio02_04\Laboratorio02_04\obj\Debug\Laboratorio02_04.pdb

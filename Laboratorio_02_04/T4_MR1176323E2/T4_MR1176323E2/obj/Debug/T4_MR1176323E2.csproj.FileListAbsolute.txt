@@ -1,0 +1,7 @@
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\bin\Debug\T4_MR1176323E2.exe.config
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\bin\Debug\T4_MR1176323E2.exe
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\bin\Debug\T4_MR1176323E2.pdb
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\obj\Debug\T4_MR1176323E2.csproj.AssemblyReference.cache
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\obj\Debug\T4_MR1176323E2.csproj.CoreCompileInputs.cache
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\obj\Debug\T4_MR1176323E2.exe
+C:\Users\devri\source\repos\T4_MR1176323E2\T4_MR1176323E2\obj\Debug\T4_MR1176323E2.pdb
